@@ -2,7 +2,8 @@
 
 #### 工程主目录 
 
-***stdafx.h*** 引入需要的库文件 
+***stdafx.h*** 引入需要的库文件  
+*e.g.* **iostream random**  
 
 ***algorithm.cpp*** 测试算法
 
