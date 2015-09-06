@@ -26,7 +26,7 @@ int main( )
 		arr[ i ] = dis( e );
 	}
 	auto tb = time( 0 );
-	selectSort( arr, count );
+	insertSort( arr, count );
 	//cout << "With time: " << time( 0 ) - tb << endl;
 	printArr( arr, count );
 	system( "PAUSE" );
